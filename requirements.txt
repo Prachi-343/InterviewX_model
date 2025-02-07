@@ -1,0 +1,9 @@
+flask
+librosa
+pydub
+google-cloud-speech
+mtcnn
+facenet-pytorch
+socketio
+requests
+pytest
