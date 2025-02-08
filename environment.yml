@@ -1,0 +1,27 @@
+name: interviewx_env
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - flask
+  - flask-socketio
+  - pymongo
+  - librosa
+  - google-cloud-speech
+  - facenet-pytorch
+  - opencv-python
+  - numpy
+  - pydub
+  - pytest
+  - pip:
+    - flask
+    - flask-socketio
+    - pymongo
+    - librosa
+    - google-cloud-speech
+    - facenet-pytorch
+    - opencv-python
+    - numpy
+    - pydub
+    - pytest
